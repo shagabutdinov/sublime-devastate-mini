@@ -1,6 +1,6 @@
 # DevastateMini
 
-Fork of [Devastate](https://github.com/vlakarados/devastate) sublime theme that
+Based on [Devastate](https://github.com/vlakarados/devastate) sublime theme that
 was based on [Spacefunk](https://github.com/Twiebie/ST-Spacefunk).
 
 Tabs and status line appearence were changed to be minimal as possible. This is
