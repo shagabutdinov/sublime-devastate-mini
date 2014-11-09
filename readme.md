@@ -37,3 +37,8 @@ User" in command palette):
 ### Screenshots
 
 ![Devastate small screenshot](https://raw.github.com/shagabutdinov/sublime-devastate-mini/master/screenshot.png "DevastateMini screenshot")
+
+
+### Dependencies
+
+None
