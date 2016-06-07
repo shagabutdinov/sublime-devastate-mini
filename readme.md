@@ -1,7 +1,8 @@
 # DevastateMini
 
 Based on [Devastate](https://github.com/vlakarados/devastate) sublime theme that
-was based on [Spacefunk](https://github.com/Twiebie/ST-Spacefunk).
+was based on [Spacefunk](https://github.com/Twiebie/ST-Spacefunk). Icons is 
+taken from [boXY](https://github.com/oivva/boxy).
 
 Tabs and status line appearence were changed to be minimal as possible. This is
 especially handy while working on laptop. Selection and comments in color scheme
